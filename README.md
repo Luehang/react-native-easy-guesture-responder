@@ -4,4 +4,4 @@
 <br/>
 <br/>
 
-> A powerful and easy to use guesture responder.
+> A powerful and easy to use function for React Native guesture responders. Supporting both iOS and Android. Free and made possible along with costly maintenance and updates by [Lue Hang](https://www.facebook.com/lue.hang) (the author).
