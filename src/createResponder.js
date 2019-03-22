@@ -3,7 +3,7 @@
 import {InteractionManager} from "react-native";
 import TouchHistoryMath from "./TouchHistoryMath";
 import {pinchDistance} from "./TouchDistanceMath";
-import TimerMixin from "react-timer-mixin";
+import TimerMixin from "./TimerMixin";
 
 const currentCentroidXOfTouchesChangedAfter =
     TouchHistoryMath.currentCentroidXOfTouchesChangedAfter;
