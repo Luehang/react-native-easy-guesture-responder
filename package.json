@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "name": "react-native-easy-guesture-responder",
   "description": "A powerful and easy to use function for React Native guesture responders. Supporting both iOS and Android. Free and made possible along with costly maintenance and updates by [Lue Hang](https://www.facebook.com/lue.hang) (the author).",
   "keywords": [
@@ -18,7 +18,7 @@
     "Lue Hang",
     "luehang"
   ],
-  "homepage": "https://github.com/Luehang/react-native-easy-guesture-responder",
+  "homepage": "https://luehangs.site/lue_hang/projects/react-native-easy-guesture-responder",
   "author": {
     "name": "Lue Hang",
     "email": "lue_hang@hotmail.com",
